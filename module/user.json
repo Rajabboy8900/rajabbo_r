@@ -1,0 +1,24 @@
+[
+    {
+        "user": "Ali",
+        "email": "ali@gmail.com",
+        "passwor": "3433",
+        "role": "superadmin"
+    }
+   ,
+    {
+        "id": "9327a349-eae9-42aa-8edd-ee4bb569375d",
+        "user": "Alii",
+        "email": "alii@gmail.com",
+        "password": "$2b$10$t8CQ6e0/bWNGQaEWcEtykOVkfhL9gcq98qCmyef8arw8HwFLF/efK",
+        "role": "admin"
+    },
+    {
+        "id": "6537478b-0cc8-43b7-b307-ef5593d531b4",
+        "user": "asa",
+        "email": "asa@gmail.com",
+        "password": "$2b$10$g.OQ0ahaxLQH9DFSXshYCOTtEsjiiBn/fj7chLurZlhT45rjN9zYm",
+        "role": "user"
+    }
+   
+]
